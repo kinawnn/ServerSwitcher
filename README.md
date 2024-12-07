@@ -35,6 +35,6 @@ The following permissions are utilized by the ServerSwitcher plugin:
 
 ## Example Configuration
 
-Here is an example configuration for `config.yml`: https://raw.githubusercontent.com/kinawnn/ServerSwitcher/refs/heads/main/src/main/resources/config.yml/
+Here is an example configuration for `config.yml`: [https://raw.githubusercontent.com/kinawnn/ServerSwitcher/refs/heads/main/src/main/resources/config.yml/](https://github.com/kinawnn/ServerSwitcher/blob/main/src/main/resources/config.yml)
 
-Here is an example configuration for `message.yml`: https://raw.githubusercontent.com/kinawnn/ServerSwitcher/refs/heads/main/src/main/resources/message.yml/
+Here is an example configuration for `message.yml`: [https://raw.githubusercontent.com/kinawnn/ServerSwitcher/refs/heads/main/src/main/resources/message.yml/](https://github.com/kinawnn/ServerSwitcher/blob/main/src/main/resources/message.yml)
