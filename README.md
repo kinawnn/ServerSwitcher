@@ -24,7 +24,7 @@ These commands can be customized in the configuration file to point to any serve
 The following permissions are utilized by the ServerSwitcher plugin:
 
 - `serverswitcher.default`: This permission grants players access to the default server switching commands.
-- `serverswitcher.<server/custompermission>`: Replace `<server>` with the specific command name to grant access to that command. For example, to allow access to the `/survival` command, you would use `serverswitcher.default' **or** 'serverswitcher.survival`.
+- `serverswitcher.<server/custompermission>`: Replace `<server>` with the specific command name to grant access to that command. For example, to allow access to the `/survival` command, you would use `serverswitcher.default` **or** `serverswitcher.survival`.
 
 ## Installation
 
