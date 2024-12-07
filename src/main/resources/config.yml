@@ -1,0 +1,43 @@
+# KinawnFrnx Server Switcher - BungeeCord Configuration
+
+server-commands:
+  hub:
+    target-server: "hub"
+    aliases:
+      - "hub"
+      - "lobby"
+      - "l"
+    permission: "server.default"
+
+  survival:
+    target-server: "survival"
+    aliases:
+      - "survival"
+      - "sv"
+      - "s"
+    permission: "server.default"
+
+  creative:
+    target-server: "creative"
+    aliases:
+      - "creative"
+      - "cr"
+      - "create"
+    permission: "server.default"
+
+  admin:
+    target-server: "admin"
+    aliases:
+      - "adminserver"
+    permission: "server.adminserver"
+
+# Global Plugin Settings
+plugin:
+  debug: false
+  metrics: true
+  update-checker: true
+
+# Server Switch Settings
+server-switch:
+  cooldown: 5 # seconds
+  fallback-server: "limbo"

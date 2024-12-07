@@ -1,0 +1,18 @@
+# KinawnFrnx Server Switcher - Messages Configuration
+serverswitcher:
+  reload:
+    success: "Server commands have been reloaded successfully."
+
+general:
+  prefix: "&8[&bServerSwitcher&8] "
+  no-permission: "&cYou do not have permission to join this server."
+  server-not-found: "&cServer is not available."
+
+server-switch:
+  success: "&aConnecting you to {server}..."
+  already-connected: "&cYou are already connected to {server}."
+  cooldown-active: "&cPlease wait {time} seconds before switching servers again."
+
+errors:
+  unknown-command: "&cUnknown command."
+  invalid-syntax: "&cInvalid command syntax."
