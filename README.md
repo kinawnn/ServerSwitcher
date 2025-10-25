@@ -1,4 +1,4 @@
-# ServerSwitcher(Not yet released.)
+# ServerSwitcher
 
 ServerSwitcher is a powerful plugin designed for Minecraft servers utilizing the Velocity/BungeeCord proxy. This plugin allows players to seamlessly switch between registered servers using customizable commands. With ServerSwitcher, server administrators can easily manage and configure commands for players to navigate their server network efficiently.
 
