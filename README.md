@@ -28,7 +28,7 @@ The following permissions are utilized by the ServerSwitcher plugin:
 
 ## Installation
 
-1. **Download the Plugin**: Obtain the latest JAR file from the [releases page](link-to-releases-page).
+1. **Download the Plugin**: Obtain the latest JAR file from the [releases page]([link-to-releases-page](https://github.com/kinawnn/ServerSwitcher/releases)).
 2. **Place in Plugins Folder**: Copy the JAR file into the `plugins` folder of your Velocity/BungeeCord server directory.
 3. **Configuration**: Adjust the `config.yml` file to define the servers and commands you wish to set up.
 4. **Start the Server**: Launch your Velocity/BungeeCord server. The plugin will automatically load the defined commands.
